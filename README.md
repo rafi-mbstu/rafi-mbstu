@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi, I'm Rafi Ahmed
 
-<!--
-**rafi-mbstu/rafi-mbstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Profession/Role:**  
+📊 Data enthusiast passionate about statistical data modelling and analytics.
 
-Here are some ideas to get you started:
+**Top Skills & Technologies:**  
+🐍 Python &nbsp;|&nbsp; 📉 R &nbsp;|&nbsp; 📊 SPSS &nbsp;|&nbsp; 🧮 STATA &nbsp;|&nbsp; 📈 Excel  
+🤖 Machine Learning (ML) &nbsp;|&nbsp; 📊 PowerBI &nbsp;|&nbsp; 🗄️ SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured Projects:**  
+🚑 [Hospital Analysis Dashboard](https://github.com/rafi-mbstu/Hospital_Analysis_Dashboard)  
+🍕 [Sales Insight of Pizza Company](https://github.com/rafi-mbstu/Sales-Insight-of-pizza-company)  
+❤️ [Heart Disease Prediction](https://github.com/rafi-mbstu/Heart-disease-prediction)  
+💳 [Credit Card Dashboard](https://github.com/rafi-mbstu/Credit_Card_Dashboard)
+
+**Certification:**  
+🎓 [Applied Data Science Lab, issued by WorldQuant University](https://www.credly.com/badges/d90984a1-b27a-44be-810e-f7d80e3897ae/linked_in_profile)  
+📊 [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/ZDPWSD8SECJN)  
+🛢️ [SQL, certified by HackerRank](https://www.hackerrank.com/certificates/e797aa312c20)
+
+**Social Links:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-ahmed-mbstu/)  
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/rafiahmed1617)  
+[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?logo=upwork&logoColor=white)](https://upwork.com/freelancers/~0109416be717ae35f3)  
+📧 [Mail](mailto:rafist20007@gmail.com)
+
+**Hobbies:**  
+🚴‍♂️ Cycling &nbsp;|&nbsp; 🌱 Gardening &nbsp;|&nbsp; 🎶 Listening to nasheed
+
+---
+
+✨ *Feel free to connect with me for data-driven projects or collaboration!* ✨
